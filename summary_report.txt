@@ -1,0 +1,40 @@
+============================================================
+COMPREHENSIVE STATISTICAL REPORT
+============================================================
+
+Sample Size: 1200 records, 10 variables
+
+------------------------------------------------------------
+ATTACHED PLOTS:
+  - plot_work_env.png: Work Environment Comparison
+  - plot_gender_env.png: Gender & Environment Interaction
+  - plot_high_risk_gap.png: High-Risk Group Gap
+
+------------------------------------------------------------
+
+1. OVERALL INFIDELITY RATE
+   - Percentage: 7.25%
+   - Reference: Descriptive Statistics
+
+2. CHI-SQUARE TEST (Work Environment)
+   - Statistic: Chi2 = 16.758
+   - P-value: 0.0000
+   - Degrees of Freedom: 1
+   - Significance: ✅ Significant
+
+3. TWO-PROPORTION Z-TEST (Mixed vs Segregated)
+   - Mixed Rate: 9.67%
+   - Segregated Rate: 3.15%
+   - Z-statistic: 4.209
+   - P-value: 0.0000
+   - Significance: ✅ Significant
+
+4. HIGH-RISK GROUP ANALYSIS (Female + Mixed + High Stress)
+   - Group Count: 133
+   - Infidelity Rate: 32.33%
+   - Other Groups Rate: 4.12%
+   - Risk Gap: 28.21 percentage points
+   - Recommendation: Targeted preventive interventions are required.
+
+============================================================
+* Report generated automatically by Pydroid 3 *
